@@ -18,6 +18,7 @@ dependencies {
     implementation("org.jetbrains:kotlin-styled:1.0.0-pre.113-kotlin-1.4.0")
     implementation("org.jetbrains:kotlin-react-router-dom:5.1.2-pre.113-kotlin-1.4.0")
 
+    implementation("dev.gitlive:firebase-common-js:1.2.0")
     implementation("dev.gitlive:firebase-auth-js:1.2.0")
     implementation("dev.gitlive:firebase-firestore-js:1.2.0")
 }
